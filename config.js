@@ -77,7 +77,7 @@ module.exports = {
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
   botname : process.env.BOT_NAME  || "𝐌𝐄𝐒𝐇-𝐓𝐄𝐂𝐇",
-  ownername:process.env.OWNER_NAME|| "𝕄𝕖𝕤𝕙 𝕂𝔼"
+  ownername:process.env.OWNER_NAME|| "𝕄𝕖𝕤𝕙 𝕂𝔼",
 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
