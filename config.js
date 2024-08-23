@@ -76,8 +76,8 @@ module.exports = {
  
   author : process.env.PACK_AUTHER|| "",
   packname: process.env.PACK_NAME || "",
-  botname : process.env.BOT_NAME  || "𝐌𝐄𝐒𝐇-𝐓𝐄𝐂𝐇",
-  ownername:process.env.OWNER_NAME|| "𝕄𝕖𝕤𝕙 𝕂𝔼",
+  botname : process.env.BOT_NAME  || "🄼🄴🅂🄷-🅃🄴🄲🄷",
+  ownername:process.env.OWNER_NAME|| "𝑀𝑒𝑠ℎ 𝐾𝐸",
 
   errorChat : process.env.ERROR_CHAT || "",
   KOYEB_API : process.env.KOYEB_API  || "false",
@@ -90,7 +90,7 @@ module.exports = {
   HEROKU: process.env.HEROKU_APP_NAME && process.env.HEROKU_API_KEY,
 
 
-  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "private",
+  WORKTYPE: process.env.WORKTYPE || process.env.MODE|| "Public",
   LANG: ( process.env.THEME ||  "MESH-TECH"  ).toUpperCase(),
 
 
