@@ -21,7 +21,7 @@ global.github=process.env.GITHUB|| "https://github.com/DJMESHK/Suhail-Md-V5";
 global.gurl  =process.env.GURL  || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z";
 global.website=process.env.GURL || "https://whatsapp.com/channel/0029VagAqpD3gvWdo0IxmZ2Z" ; 
 global.THUMB_IMAGE = process.env.THUMB_IMAGE || process.env.IMAGE || "https://github.com/DJMESHK/Suhail-Md-V5/blob/main/lib/assets/suhail.jpg?raw=true" ; // SET LOGO FOR IMAGE 
-global.caption = process.env.CAPTION || global.caption || "ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕄𝕖𝕤𝕙-𝕋𝕖𝕔𝕙" 
+global.caption = process.env.CAPTION || global.caption || "*ℙ𝕠𝕨𝕖𝕣𝕖𝕕 𝕓𝕪 𝕄𝕖𝕤𝕙-𝕋𝕖𝕔𝕙*" 
 
 
 global.devs = "254707541188" // Developer Contact
